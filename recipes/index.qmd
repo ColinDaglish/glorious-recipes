@@ -12,14 +12,12 @@ Pick a recipe below to jump straight into ingredients and method.
 
 - **Time:** 1 hour 30 minutes
 - **Serves:** 3 to 4
-- **Why make it:** Crispy oven wings with a proper buffalo kick.
 :::
 
 ::: {.g-col-12 .g-col-md-4 .recipe-card}
 ## [Roast Chicken Dinner](roast-chicken-dinner.qmd)
 
 - **Time:** 2 hours
-- **Serves:** 4
-- **Why make it:** A full roast with potatoes, vegetables, and gravy in one plan.
+- **Serves:** 2 adults 1 child
 :::
 :::
