@@ -13,14 +13,20 @@ Simple, tasty recipes with a focus on reliable crowd-pleasers.
 
 ## Cook something great tonight
 
-Start with the current featured recipe and build from there.
+Start with one of the featured recipes and build from there.
 
-## Featured recipe
+## Featured recipes
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-4 .recipe-card}
 ### [Crispy Buffalo Wings](recipes/crispy-buffalo-wings.qmd)
 
 Crackly skin, buttery heat, and a cool dip alongside.
+:::
+
+::: {.g-col-12 .g-col-md-4 .recipe-card}
+### [Roast Chicken Dinner](recipes/roast-chicken-dinner.qmd)
+
+Golden chicken, crisp roast potatoes, and a full tray of sides.
 :::
 :::
