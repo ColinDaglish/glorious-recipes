@@ -2,6 +2,8 @@
 
 A small Quarto website for publishing a recipe collection.
 
+Live site: https://colindaglish.github.io/glorious-recipies
+
 ## Structure
 
 - `index.qmd` - landing page
