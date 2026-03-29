@@ -27,3 +27,9 @@ quarto render
 ```
 
 The generated site will be written to `_site/`.
+
+## Deploy to GitHub Pages
+
+This repo includes a GitHub Actions workflow at `.github/workflows/deploy.yml` that renders the Quarto site and publishes `_site/` to GitHub Pages.
+
+In the repository settings, set **Pages** to use **GitHub Actions** as the source.
