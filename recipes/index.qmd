@@ -1,0 +1,17 @@
+---
+title: "Recipes"
+---
+
+# Recipe collection
+
+Pick the recipe below to jump straight into ingredients and method.
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-4 .recipe-card}
+## [Crispy Buffalo Wings](crispy-buffalo-wings.qmd)
+
+- **Time:** 1 hour 30 minutes
+- **Serves:** 6 to 8
+- **Why make it:** Crispy oven wings with a proper buffalo kick.
+:::
+:::

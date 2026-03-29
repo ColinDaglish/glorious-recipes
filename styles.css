@@ -1,0 +1,67 @@
+:root {
+  --brand: #db6c4a;
+  --brand-dark: #9c4028;
+  --surface: #fffaf7;
+  --text-soft: #5e514a;
+}
+
+body {
+  background: linear-gradient(180deg, #fffdfb 0%, var(--surface) 100%);
+}
+
+.hero-banner {
+  padding: 5rem 1.5rem;
+  margin-bottom: 2rem;
+  border-radius: 1.5rem;
+  background: linear-gradient(135deg, rgba(219, 108, 74, 0.12), rgba(255, 222, 173, 0.5));
+  text-align: center;
+}
+
+.hero-banner h1 {
+  font-size: clamp(2.5rem, 5vw, 4.5rem);
+  margin-bottom: 1rem;
+}
+
+.hero-banner p,
+.hero-banner + p,
+p {
+  color: var(--text-soft);
+}
+
+.btn-primary {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.8rem 1.25rem;
+  border-radius: 999px;
+  background: var(--brand);
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.btn-primary:hover {
+  background: var(--brand-dark);
+  color: #ffffff;
+}
+
+.recipe-card {
+  padding: 1.25rem;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 1rem;
+  background: #ffffff;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+  height: 100%;
+}
+
+.recipe-card h2,
+.recipe-card h3 {
+  margin-top: 0;
+}
+
+main a {
+  color: var(--brand-dark);
+}
+
+main a:hover {
+  color: var(--brand);
+}

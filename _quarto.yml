@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Glorious Recipes"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: recipes/index.qmd
+        text: Recipes
+    right:
+      - icon: github
+        href: https://github.com/ColinDaglish/glorious-recipies
+        aria-label: GitHub
+  page-footer:
+    center: "Made with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+execute:
+  freeze: auto

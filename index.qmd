@@ -1,0 +1,26 @@
+---
+title: "Welcome"
+page-layout: full
+---
+
+:::{.hero-banner}
+# Glorious Recipes
+
+Simple, tasty recipes with a focus on reliable crowd-pleasers.
+
+[Browse recipes](recipes/index.qmd){.btn-primary}
+:::
+
+## Cook something great tonight
+
+Start with the current featured recipe and build from there.
+
+## Featured recipe
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-4 .recipe-card}
+### [Crispy Buffalo Wings](recipes/crispy-buffalo-wings.qmd)
+
+Crackly skin, buttery heat, and a cool dip alongside.
+:::
+:::
